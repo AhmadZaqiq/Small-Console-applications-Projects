@@ -40,3 +40,16 @@ This project is designed to practice class invocation and creation, as well as t
   - Stacks
 - **Modular Design**: Libraries are designed to be modular for easy reuse and maintenance in small applications.
 
+# 4-Stone-Paper-Scissors Game
+
+ implements a Stone-Paper-Scissors game in C++, allowing users to play against the computer.
+
+## Features:
+- **Customizable Rounds**: Players can choose between 1 to 10 rounds.
+- **User Input and Computer Response**: Players select their choice, and the computer responds randomly.
+- **Round Winners**: The program determines winners based on the game rules.
+- **Result Tracking**: The game keeps track of the results for each round.
+- **Final Winner Announcement**: Announces the final winner after all rounds are completed.
+- **Replay Option**: Players can choose to replay or exit upon completion.
+- **Simple Design**: Focuses on user engagement and replayability with a straightforward interface.
+
