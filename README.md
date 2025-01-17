@@ -66,5 +66,7 @@ This project is a Simple Banking System developed in C++ to efficiently manage c
   - Searching for specific clients
 - **Data Consistency**: Client information is stored and retrieved from a file to ensure consistency.
 - **Clear Prompts**: Each operation includes user-friendly prompts and instructions.
-
+Important Note: Upon running the program for the first time,
+there will be no text file containing Client names in the program files.
+When the first client is added,a text file named "clients" will be automatically created.
 
