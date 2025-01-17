@@ -70,3 +70,17 @@ This project is a Simple Banking System developed in C++ to efficiently manage c
 there will be no text file containing Client names in the program files.
 When the first client is added,a text file named "clients" will be automatically created.
 
+# 6-Simple Banking System (With Transactions Menu)
+
+This project is an enhanced version of the previous Simple Banking System [Project 5], developed in C++ to manage client data.
+
+## Features:
+- **Same as [Project 5]**.
+## New Features:
+- **Option 6** allows performing transactions:
+  - [1] **Deposit**: Deposit money into a client's account by entering the account number and amount.
+  - [2] **Withdraw**: Withdraw money from a client's account, ensuring the amount is within the balance.
+  - [3] **Show Total Balances**: Display the total balance of all clients' accounts.
+  - [4] **Main Menu**: Return to the main menu.
+
+
