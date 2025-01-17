@@ -53,3 +53,18 @@ This project is designed to practice class invocation and creation, as well as t
 - **Replay Option**: Players can choose to replay or exit upon completion.
 - **Simple Design**: Focuses on user engagement and replayability with a straightforward interface.
 
+# 5-Simple Banking System
+
+This project is a Simple Banking System developed in C++ to efficiently manage client data.
+
+## Features:
+- **Menu-Driven Interface**: Provides a user-friendly interface for various tasks:
+  - Displaying the client list
+  - Adding new clients
+  - Deleting existing clients
+  - Updating client information
+  - Searching for specific clients
+- **Data Consistency**: Client information is stored and retrieved from a file to ensure consistency.
+- **Clear Prompts**: Each operation includes user-friendly prompts and instructions.
+
+
