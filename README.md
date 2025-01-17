@@ -72,7 +72,7 @@ When the first client is added,a text file named "clients" will be automatically
 
 # 6-Simple Banking System (With Transactions Menu)
 
-This project is an enhanced version of the previous Simple Banking System [Project 5], developed in C++ to manage client data.
+This project is an enhanced version of the previous Simple Banking System [Project 5], developed in C++.
 
 ## Features:
 - **Same as [Project 5]**.
