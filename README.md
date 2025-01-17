@@ -40,7 +40,7 @@ This project is designed to practice class invocation and creation, as well as t
   - Stacks
 - **Modular Design**: Libraries are designed to be modular for easy reuse and maintenance in small applications.
 
-# 4-Stone-Paper-Scissors Game
+# 4-Stone Paper Scissors Game
 
  implements a Stone-Paper-Scissors game in C++, allowing users to play against the computer.
 
