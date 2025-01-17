@@ -23,3 +23,20 @@ This project is a Math Quiz Game simulation developed in C++.
 - **Adjustable Difficulty**: Offers multiple difficulty levels for a personalized experience.
 - **Performance Evaluation**: Provides feedback after each question and a final performance summary.
 - **Replay Option**: Users can replay the quiz to improve their math proficiency.
+
+# 3-My own Libraries
+
+This project is designed to practice class invocation and creation, as well as to gain a deeper understanding of how built-in functions work.
+
+## Features:
+- **Reusable Libraries**: Includes a set of tools for:
+  - Date handling
+  - Input validation
+  - String operations
+  - Template-based validation
+- **Data Structures**: Implements commonly used data structures such as:
+  - Doubly linked lists
+  - Queues
+  - Stacks
+- **Modular Design**: Libraries are designed to be modular for easy reuse and maintenance in small applications.
+
