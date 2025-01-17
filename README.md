@@ -11,6 +11,5 @@ This project implements an ATM Transaction System using C++, allowing users to c
 - **Data Persistence**: Account details and transactions are securely managed with file storage.
 - **User Interaction**: The system offers a user-friendly interface with clear prompts and robust validation.
 - Important Note: To enter the system for the first time...Use:
-Account Number: A150
-PinCode       : 1234
+Account Number: A150, PinCode       : 1234
 
