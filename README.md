@@ -10,7 +10,7 @@ This project implements an ATM Transaction System using C++, allowing users to c
 - **Banking Operations**: Includes quick withdrawal, normal withdrawal, deposits, and balance inquiries.
 - **Data Persistence**: Account details and transactions are securely managed with file storage.
 - **User Interaction**: The system offers a user-friendly interface with clear prompts and robust validation.
-- Important Note: To enter the system for the first time...Use:-
+- Important Note: To enter the system for the first time...Use:
 Account Number: A150
 PinCode       : 1234
 
