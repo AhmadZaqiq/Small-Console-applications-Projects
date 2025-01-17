@@ -1,0 +1,4 @@
+﻿  ATM Transaction System.cpp
+D:\C++ && C#\ATM Transaction System\ATM Transaction System.cpp(67,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\ATM Transaction System\ATM Transaction System.cpp(364): warning C4715: 'QuickWithdrawAmount': not all control paths return a value
+  ATM Transaction System.vcxproj -> D:\C++ && C#\ATM Transaction System\x64\Debug\ATM Transaction System.exe
