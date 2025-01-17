@@ -13,3 +13,13 @@ This project implements an ATM Transaction System using C++, allowing users to c
 - Important Note: To enter the system for the first time...Use:
 Account Number: A150, PinCode       : 1234
 
+# 2-Math Quiz Game
+
+This project is a Math Quiz Game simulation developed in C++.
+
+## Features:
+- **Customizable Quiz**: Users can specify the number of questions, difficulty level, and operation type.
+- **Supported Operations**: Addition, subtraction, multiplication, division, and mixed operations.
+- **Adjustable Difficulty**: Offers multiple difficulty levels for a personalized experience.
+- **Performance Evaluation**: Provides feedback after each question and a final performance summary.
+- **Replay Option**: Users can replay the quiz to improve their math proficiency.
