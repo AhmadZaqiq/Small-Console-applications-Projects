@@ -1,14 +1,6 @@
 //Ahmad JR
 
 /*
-
-*important Note:-
-
-To enter the system for the first time...Use:
-
-Account Number: A150
-PinCode       : 1234
-
 Instructions:-
 
 1.Run the Program.
