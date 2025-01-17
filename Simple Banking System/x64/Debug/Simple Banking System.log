@@ -1,0 +1,5 @@
+﻿  Simple Banking System.cpp
+D:\C++ && C#\Simple Banking System\Simple Banking System.cpp(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Simple Banking System\Simple Banking System.cpp(346): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\C++ && C#\Simple Banking System\Simple Banking System.cpp(404): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Simple Banking System.vcxproj -> D:\C++ && C#\Simple Banking System\x64\Debug\Simple Banking System.exe
